@@ -32,19 +32,6 @@
 
 ---
 
-### 🛠️ Technical Arsenal
-
-<div align="center">
-
-| **Backend & Logic** | **Architecture & Ops** | **Integration** |
-| :--- | :--- | :--- |
-| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Systems](https://img.shields.io/badge/System_Architecture-00599C?style=for-the-badge&logo=diagrams.net&logoColor=white) | ![APIs](https://img.shields.io/badge/Rest_APIs-009688?style=for-the-badge&logo=api&logoColor=white) |
-| ![Automation](https://img.shields.io/badge/Automation-4B275F?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Performance](https://img.shields.io/badge/Perf_Tuning-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB) | ![Scripts](https://img.shields.io/badge/Advanced_Scripting-232F3E?style=for-the-badge&logo=linux&logoColor=white) |
-
-</div>
-
----
-
 ### 📊 My GitHub Ecosystem
 
 <div align="center">
@@ -66,4 +53,17 @@
 
 <div align="center">
   <sub>Built with Python and a passion for clean systems. 🛠️</sub>
+</div>
+
+---
+
+### 🛠️ Technical Arsenal
+
+<div align="center">
+
+| **Backend & Logic** | **Architecture & Ops** | **Integration** |
+| :--- | :--- | :--- |
+| ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) | ![Systems](https://img.shields.io/badge/System_Architecture-00599C?style=for-the-badge&logo=diagrams.net&logoColor=white) | ![APIs](https://img.shields.io/badge/Rest_APIs-009688?style=for-the-badge&logo=api&logoColor=white) |
+| ![Automation](https://img.shields.io/badge/Automation-4B275F?style=for-the-badge&logo=google-cloud&logoColor=white) | ![Performance](https://img.shields.io/badge/Perf_Tuning-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB) | ![Scripts](https://img.shields.io/badge/Advanced_Scripting-232F3E?style=for-the-badge&logo=linux&logoColor=white) |
+
 </div>
