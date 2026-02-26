@@ -29,9 +29,13 @@
 <br>
 <br>
 
+<div align="center">
+
 <a href="https://buymeacoffee.com/hengly">
-<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hengly&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" height="45px" />
+  <img src="https://img.shields.io/badge/Buy_Me_A_Coffee-Support_My_Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" height="45px" />
 </a>
+
+</div>
 
 </div>
 
