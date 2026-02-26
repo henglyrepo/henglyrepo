@@ -12,7 +12,21 @@
 ### Hi there! I'm Hengly 👋
 **Bridging complex systems with high-concurrency Python architecture.**
 
-[**Direct Telegram Contact**](https://t.me/lucian_dev) | [**View Portfolio**](#)
+<div align="center">
+
+### 💡 Have a project in mind?
+  
+<a href="https://t.me/lucian_dev">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=26A5E4&center=true&vCenter=true&width=435&lines=CLICK+TO+MESSAGE+ON+TELEGRAM;LET'S+BUILD+SOMETHING+GREAT;AVAILABLE+FOR+FREELANCE" alt="Typing SVG" />
+</a>
+
+<br>
+
+<a href="https://t.me/lucian_dev">
+<img src="https://img.shields.io/badge/SEND_MESSAGE-DIRECT_CONTACT-blue?style=for-the-badge&logo=telegram&logoColor=white" height="45px" />
+</a>
+
+</div>
 
 </div>
 
