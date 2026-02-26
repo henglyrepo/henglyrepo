@@ -26,6 +26,13 @@
 <img src="https://img.shields.io/badge/SEND_MESSAGE-DIRECT_CONTACT-blue?style=for-the-badge&logo=telegram&logoColor=white" height="45px" />
 </a>
 
+<br>
+<br>
+
+<a href="https://buymeacoffee.com/hengly">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hengly&button_colour=FFDD00&font_colour=000000&font_family=Inter&outline_colour=000000&coffee_colour=ffffff" height="45px" />
+</a>
+
 </div>
 
 </div>
