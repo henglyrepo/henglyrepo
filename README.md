@@ -1,8 +1,12 @@
 <div align="center">
 
+# ⚡ FnDevX
 
-def FnDevX(systems, integration):    
-    return high_performance_architecture
+<img src="https://carbon-now-sh.vercel.app/?code=def%20FnDevX(systems%2C%20integration)%3A%0A%20%20%20%20return%20high_performance_architecture&theme=tokyo-night&backgroundColor=rgba(0,0,0,0)&paddingVertical=20px&paddingHorizontal=20px&dropShadow=true&dropShadowBlur=20px&lineNumbers=true" alt="FnDevX Logic" />
+
+### 🏛️ Software Architect | Systems Integration Specialist
+
+</div>
 
 ### 🏛️ Software Architect | Systems Integration Specialist
 
