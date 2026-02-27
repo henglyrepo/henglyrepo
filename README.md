@@ -4,8 +4,6 @@
 def FnDevX(systems, integration):    
     return high_performance_architecture
 
-</div>
-
 ### 🏛️ Software Architect | Systems Integration Specialist
 
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lucian_dev)
