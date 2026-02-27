@@ -2,7 +2,9 @@
 
 # ⚡ FnDevX
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=26A5E4&center=true&vCenter=true&width=500&lines=def+FnDevX(systems%2C+int)%3A;++++return+Architecture" alt="Code Animation" />
+<a href="https://t.me/lucian_dev">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=100&lines=def+FnDevX(systems%2C+integration)%3A;++++return+high_performance_architecture" alt="Python Architecture Logic" />
+</a>
 
 # ⚡ Software Architect | Python Specialist
 
