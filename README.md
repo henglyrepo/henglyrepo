@@ -2,9 +2,7 @@
 
 # ⚡ FnDevX
 
-<a href="https://t.me/lucian_dev">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=100&lines=def+FnDevX(systems%2C+integration)%3A;++++return+high_performance_architecture" alt="Python Architecture Logic" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=26A5E4&background=0E1117&center=true&vCenter=true&width=600&height=100&lines=def+FnDevX(systems%2C+integration)%3A;++++return+high_performance_architecture&repeat=false" alt="Kali Style Code" />
 
 ### 🏛️ Software Architect | Systems Integration Specialist
 
