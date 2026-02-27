@@ -5,9 +5,6 @@
 <a href="https://t.me/lucian_dev">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=100&lines=def+FnDevX(systems%2C+integration)%3A;++++return+high_performance_architecture" alt="Python Architecture Logic" />
 </a>
-
-# ⚡ Software Architect | Python Specialist
-
   <a href="https://t.me/lucian_dev">
     <img src="https://img.shields.io/badge/Contact%20Me-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
