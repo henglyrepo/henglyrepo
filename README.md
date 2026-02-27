@@ -2,7 +2,16 @@
 
 # ⚡ FnDevX
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=26A5E4&background=0E1117&center=true&vCenter=true&width=600&height=100&lines=def+FnDevX(systems%2C+integration)%3A;++++return+high_performance_architecture&repeat=false" alt="Kali Style Code" />
+<div align="center">
+
+<a href="https://t.me/lucian_dev">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/TELEGRAM-DIRECT_CONTACT-26A5E4%3Fstyle%3Dfor-the-badge%26logo%3Dtelegram%26logoColor%3Dwhite" height="40px" />
+</a>
+<a href="https://buymeacoffee.com/hengly">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/SUPPORT-COFFEE-FFDD00%3Fstyle%3Dfor-the-badge%26logo%3Dbuy-me-a-coffee%26logoColor%3Dblack" height="40px" />
+</a>
+
+</div>
 
 ### 🏛️ Software Architect | Systems Integration Specialist
 
