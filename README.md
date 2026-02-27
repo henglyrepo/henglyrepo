@@ -4,13 +4,12 @@
 
 <a href="https://t.me/lucian_dev">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&pause=1000&color=3776AB&center=true&vCenter=true&width=600&height=100&lines=def+FnDevX(systems%2C+integration)%3A;++++return+high_performance_architecture" alt="Python Architecture Logic" />
-
 </a>
 
-  <a href="https://t.me/lucian_dev">
-    <img src="https://img.shields.io/badge/Contact%20Me-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-  <img src="https://img.shields.io/badge/Available%20For-Freelance%20%26%20Remote-brightgreen?style=for-the-badge" />
+### 🏛️ Software Architect | Systems Integration Specialist
+
+[![Contact Me](https://img.shields.io/badge/Contact%20Me-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lucian_dev)
+![Available For](https://img.shields.io/badge/Available%20For-Freelance%20%26%20Remote-brightgreen?style=for-the-badge)
 
 ---
 
