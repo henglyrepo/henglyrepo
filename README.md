@@ -1,5 +1,9 @@
 <div align="center">
 
+# ⚡ FnDevX
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&pause=1000&color=26A5E4&center=true&vCenter=true&width=500&lines=def+FnDevX(systems%2C+int)%3A;++++return+Architecture" alt="Code Animation" />
+
 # ⚡ Software Architect | Python Specialist
 
   <a href="https://t.me/lucian_dev">
