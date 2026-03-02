@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🏛️ Software Architect | Systems Integration Specialist
+### 🏛️ Software Architect DevOps Engineer| Systems Integration Specialist
 
 [![Contact Me](https://img.shields.io/badge/Contact%20Me-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/lucian_dev)
 ![Available For](https://img.shields.io/badge/Available%20For-Freelance%20%26%20Remote-brightgreen?style=for-the-badge)
